@@ -14,12 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fram0n" alt="fram0n" /></a> </p>
+<p align="left">Master's degree student in Computer Science at University of Pisa</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fram0n&show_icons=true&locale=en&layout=compact" alt="fram0n" /></p>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkdjM0a2lienZtMnZ4OHc4dDk4M2NveTF2NTB4NDZ6NDIxMjN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnHeLnSnpS7BMlyveM/giphy.gif"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fram0n&show_icons=true&locale=en" alt="fram0n" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fram0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
