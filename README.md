@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkdjM0a2lienZtMnZ4OHc4dDk4M2NveTF2NTB4NDZ6NDIxMjN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnHeLnSnpS7BMlyveM/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmswYnpnc2hzeW0wMWkxZGZlNjl4MWdlZzU5djc1MGo1cnZibzU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sy9UfCghNuTO8/giphy.gif"  />
 </div>
 
 ###
